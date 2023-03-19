@@ -6,7 +6,7 @@
   <a href="https://github.com/Itzvenomo"><img alt="Website" src="https://img.shields.io/badge/𝐌𝐑 𝐀𝐘𝐔𝐒𝐇-blue"></a>
  
 [![Stars](https://img.shields.io/github/stars/Itzvenomo/VenomXMusic?style=social)](https://github.com/Itzvenomo/VenomXMusic/stargazers)
-  [![Forks](https://img.shields.io/github/forks/Itzvenomo/VenomXMusic?style=social)](https://github.com/Itzvenomo/VenomXMusic/fork)
+  [![Forks](https://img.shields.io/github/forks/OyeArun/VenomXMusic?style=social)](https://github.com/Itzvenomo/VenomXMusic/fork)
 
 ### 🛠️ ʟᴀɴɢᴜᴀɢᴇs ᴀɴᴅ ᴛᴏᴏʟs
 
